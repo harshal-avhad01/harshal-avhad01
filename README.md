@@ -72,10 +72,4 @@ Qualified for Zonal and University Level rounds with the HowlCam project
 
 ⭐ STEP 2 — Fix Repo Names for Professionalism
 
-Recommended renaming:
 
-Current Project	Recommended Name
-CampusHub Repo	campushub-fullstack
-HowlCam Repo	howlcam-iot-system
-YatraMitra Repo	yatramitra-travel-app
-TouchPay Repo	touchpay-iot-payment-system
