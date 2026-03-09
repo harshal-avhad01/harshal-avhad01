@@ -74,13 +74,6 @@ Qualified for **Zonal and University Level rounds** with the **HowlCam project**
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshal-avhad01&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-avhad01&layout=compact)
-
----
 
 ## 📫 Connect
 
