@@ -1,73 +1,94 @@
-👋 Hi, I'm Harshal Ankush Avhad
+# 👋 Hi, I'm Harshal Ankush Avhad
 
-A self-driven Computer Science student passionate about web development, IoT systems, AI tools, and building practical, real-world solutions.
-I enjoy creating full-stack applications, experimenting with sensors and embedded systems, and using AI to enhance productivity and workflows.
+💻 Computer Science Student  
+🚀 Full-Stack Developer | IoT Systems Builder | Data Platforms Enthusiast  
 
-🚀 What I Do
+I build **practical software systems and IoT-based solutions**. My work includes **full-stack applications, event management software, embedded systems, and data platforms** designed for real academic and technical use cases.
 
-Build full-stack platforms with Supabase, HTML/CSS/JS
+---
 
-Develop IoT projects with Raspberry Pi & Microcontrollers
+## 🚀 Areas of Work
 
-Create smart applications like HowlCam, YatraMitra, and CampusHub
+- Full-Stack Web Development
+- IoT Systems & Embedded Applications
+- Event Scoring & Tournament Software
+- Database Design & Data Systems
+- Big Data Platforms
+- System Programming
 
-Use AI tools (ChatGPT, Gemini, Claude) for automation, documentation, and prototyping
+---
 
-Solve problems, learn new technologies, and continuously improve
+## 🛠 Tech Stack
 
-🛠️ Tech Stack
-Languages
+### Languages
+C • C++ • Java • Python • R  
+HTML • CSS • JavaScript • SQL
 
-C • C++ • Python • Java • R • HTML • CSS • JavaScript
+### Web Development
+HTML • CSS • JavaScript • Supabase
 
-Web & App Development
+### Databases
+SQL • SQLite • Supabase  
+ER Diagrams • Normalization • DBMS Design
 
-HTML • CSS • JavaScript • Supabase • Android (Basic)
+### Big Data
+Hadoop • Hive
 
-IoT & Embedded Systems
+### IoT
+Raspberry Pi • Arduino • ThingSpeak  
+Sensor Interfacing • Embedded Logic
 
-Raspberry Pi • Sensor Interfacing • Microcontroller Logic • Arduino (Basic)
+### Tools
+Git • GitHub • VS Code • Linux • Arduino IDE
 
-Databases & Backend
+---
 
-SQL • Supabase • DBMS • ER Diagrams • Normalization
+## 📌 Featured Projects
 
-AI & Automation
+### CampusHub
+Full-stack college communication platform for managing **events, departments, and student interaction**.
 
-ChatGPT • Gemini • Claude • AI Chatbots (Chatbase + Supabase) • Prompt Engineering
+### Kho-Kho Tournament Management System
+Complete platform for **tournament creation, match scoring, and automated score sheets**.
 
-Tools
+### Kartikeya Rindani Quiz Scorer
+Live quiz scoring system supporting **5 teams, 8 rounds, and real-time scoreboard display**.
 
-Git • VS Code • Linux • Canva AI • Thonny • Arduino IDE
+### HowlCam
+IoT **wildlife monitoring system** using sensors and environmental logging.
 
-📌 Featured Projects
-🔹 CampusHub — Full-Stack College Communication Platform
+### YatraMitra
+Travel companion application providing **route suggestions and nearby services**.
 
-A complete platform for events, departments, profiles, and campus communication using Supabase backend.
-➡️ Showcase folder + demo images recommended
+### TouchPay
+Conceptual **IoT digital payment terminal** integrating touch interface with QR/UPI workflow.
 
-🔹 HowlCam — IoT Wildlife Monitoring System
+---
 
-Motion-triggered wildlife camera with sensors, logging, and environmental sensing.
+## 🏆 Achievements
 
-🔹 YatraMitra — Travel Companion App
+🥇 **1st Place — Aavishkar 2025 Poster Competition (UG Category)**  
+Agriculture & Animal Husbandry  
 
-Route suggestions, nearby services, and clean UI for safe travel assistance.
+Qualified for **Zonal and University Level rounds** with the **HowlCam project**.
 
-🔹 TouchPay — IoT Digital Payment System (Concept)
+---
 
-Touch-based digital payment terminal concept integrating UPI/QR and microcontroller logic.
+## 📊 GitHub Stats
 
-🏆 Achievements
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshal-avhad01&show_icons=true)
 
-1st Place – Aavishkar 2025 UG Poster Competition (Agriculture & Animal Husbandry Category)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-avhad01&layout=compact)
 
-Qualified for Zonal and University Level rounds with the HowlCam project
+---
 
-📫 Connect With Me
+## 📫 Connect
 
-🔗 LinkedIn: linkedin.com/in/harshal-avhad
-💻 GitHub: github.com/harshal-avhad01
-📧 Email: avhad15505@gmail.com
+GitHub  
+https://github.com/harshal-avhad01  
 
+LinkedIn  
+https://linkedin.com/in/harshal-avhad  
 
+Email  
+avhad15505@gmail.com
