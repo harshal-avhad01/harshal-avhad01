@@ -70,6 +70,4 @@ Qualified for Zonal and University Level rounds with the HowlCam project
 💻 GitHub: github.com/harshal-avhad01
 📧 Email: avhad15505@gmail.com
 
-⭐ STEP 2 — Fix Repo Names for Professionalism
-
 
